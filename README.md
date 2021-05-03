@@ -20,5 +20,5 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=naisannovel)](https://github.com/anuraghazra/github-readme-stats)
 
-<> (This is also a comment.)
+[//]: (This is also a comment.)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naisannovel)](https://github.com/anuraghazra/github-readme-stats)
