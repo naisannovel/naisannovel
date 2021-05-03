@@ -3,12 +3,13 @@
 
 <p align="center">- 🌱 I’m currently learning **Node.js**</p>
 
-- 💬 Ask me about **Anything😅**
+<p align="center">- 💬 Ask me about **Anything😅**</p>
 
-- 🥅 2021 Goals **Node.js,Next.js,Express.js**
+<p align="center">- 🥅 2021 Goals **Node.js,Next.js,Express.js**</p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/naisannovel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="naisannovel" height="30" width="40" /></a>
 <a href="https://fb.com/naisannovel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="naisannovel" height="30" width="40" /></a>
 <a href="https://instagram.com/naisannovel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="naisannovel" height="30" width="40" /></a>
