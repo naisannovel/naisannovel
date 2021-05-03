@@ -7,13 +7,11 @@
 <h1 align="center">Hi 👋, I'm <a href='https://naisannovel-d0ed6.web.app/' target='_blank'>Naisan Novel</a> </h1>
 <h3 align="center">A passionate front-end developer from Bangladesh</h3>
 
-- 🌱 I’m currently learning **Node**
+- 🌱 I’m currently learning **Node.js**
 
-- 👨‍💻 All of my projects are available at [https://naisannovel-d0ed6.web.app/](https://naisannovel-d0ed6.web.app/)
+- 💬 Ask me about **Anything😅**
 
-- 💬 Ask me about **Anything**
-
-- 📫 How to reach me **naisannovel@gmail.com**
+- 🥅 2021 Goals **Node.js,Next.js,Express.js**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
