@@ -20,6 +20,7 @@
 <a href="https://linkedin.com/in/naisannovel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="naisannovel" height="30" width="40" /></a>
 <a href="https://fb.com/naisannovel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="naisannovel" height="30" width="40" /></a>
 <a href="https://instagram.com/naisannovel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="naisannovel" height="30" width="40" /></a>
+<a href="https://twitter.com/naisannovel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="naisannovel" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
