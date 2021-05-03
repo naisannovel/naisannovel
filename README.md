@@ -21,5 +21,5 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=naisannovel&show_icons=true&theme=radical)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=naisannovel)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?naisannovel=shinokada)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=naisannovel)
 
