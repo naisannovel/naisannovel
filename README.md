@@ -1,12 +1,4 @@
 <h1 align="left">Hi 👋, I'm <a href='https://naisan.netlify.app/' target='_blank'>Naisan Novel</a> </h1>
-<h3 align="left">A passionate front-end developer from Bangladesh</h3>
-
-<p align="left">- 🌱 I’m currently learning **Node.js**</p>
-
-<p align="left">- 💬 Ask me about **Anything😅**</p>
-
-<p align="left">- 🥅 2021 Goals **Node.js,Next.js,Express.js**</p>
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
