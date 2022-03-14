@@ -1,2 +1,4 @@
-<h1 align="left">Hi 👋, I'm <a href='https://naisan-novel.web.app/' target='_blank'>Naisan Novel</a> </h1>
+[![MasterHead](https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif)](https://naisan-novel.web.app/)
 
+<h1 align="center">Hi 👋, I'm Naisan Novel</h1>
+<h3 align="center">A passionate frontend developer from Bangladesh</h3>
