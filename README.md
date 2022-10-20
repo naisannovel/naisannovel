@@ -10,9 +10,4 @@
 <a href="https://twitter.com/naisannovel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="naisannovel" height="30" width="40" /></a>
 </p>
 
-
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=naisannovel&show_icons=true&locale=en&layout=compact" alt="naisannovel" /></p>
-
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naisannovel&show_icons=true&locale=en" alt="naisannovel" /></p>
-
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naisannovel&" alt="naisannovel" /></p>
